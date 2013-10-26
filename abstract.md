@@ -1,4 +1,4 @@
-## Abstract
+## Summary
 
 Large scale genetic screening is tedious and time-consuming for phenotypes that require complicated analysis. In an effort to address this problem, we propose a novel two-tiered screening system using a collection of UAS lines covering most *Drosophila* miRNAs. MicroRNAs are ~22 nucleotide negative regulators of gene expression. Under this system, an initial “pooling” screen identifies a miRNA or miRNAs whose tissue-specific overexpression causes a phenotype of interest. Since miRNAs inhibit translation or direct the destruction of their target mRNAs, any phenotype observed with miRNA overexpression should be attributable to the loss-of-function of one or more target mRNAs.
 
