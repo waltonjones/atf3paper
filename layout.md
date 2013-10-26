@@ -1,7 +1,7 @@
 abstract.md
 introduction.md
-methods.md
 results.md
 discussion.md
+methods.md
 supplemental.md
 contributions.md
