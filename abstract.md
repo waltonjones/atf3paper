@@ -1,4 +1,4 @@
-# Abstract
+## Abstract
 
 Large scale genetic screening is tedious and time-consuming for phenotypes that require complicated assays. In an effort to address this problem, we propose a novel two-tiered screening system using a new collection of UAS lines covering most *Drosophila* miRNAs that are all inserted into a common genomic landing site via site-specific recombination. Under this system, an initial “pooling” screen identifies a miRNA or miRNAs whose tissue-specific overexpression causes a phenotype of interest. Since miRNAs inhibit translation or direct the destruction of their target mRNAs, any phenotype observed with miRNA overexpression should be attributable to the loss-of-function of one or more target mRNAs.
 
