@@ -1,6 +1,7 @@
 ## Materials and Methods:
 
 ### MicroRNA over-expression screen:
+When we started this project, there were no UAS-miRNA stocks available; only a group of plasmids capable of driving miRNA expression when used to transform fly embryos had been made available\cite{Silver:2007hz}. 
 Virgin flies containing Pebbled-GAL4, UAS-Dicer2, and the OR promoter fusions of OR47b and Or92a were mated with the males obtained from the UAS-miRNA library. The crosses were step up at 25^0, and at the pre-pupal stage vials were shifted to 27^0 until eclosion. 3d-4d post eclosion, brain immunostaining were performed as a score for loss of GFP expression. UAS-miR lines showing loss of GFP in either of ORs were re-tested for the reproducibility.
 
 ### MicroRNA target prediction:
