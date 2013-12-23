@@ -5,7 +5,15 @@ When we started this project, there were no UAS-miRNA stocks available; only a g
 Virgin flies containing Pebbled-GAL4, UAS-Dicer2, and the OR promoter fusions of OR47b and Or92a were mated with the males obtained from the UAS-miRNA library. The crosses were step up at 25^0, and at the pre-pupal stage vials were shifted to 27^0 until eclosion. 3d-4d post eclosion, brain immunostaining were performed as a score for loss of GFP expression. UAS-miR lines showing loss of GFP in either of ORs were re-tested for the reproducibility.
 
 ### MicroRNA target prediction:
-The bioinformatic tools such as Target ScanFly, miRanda and Microcosm were used to establish a target list for set of UAS-miRNAs showing loss of GFP expression. For ordering RNAi lines, the overlapping target predictions between all three programs and individual miRNAs showing similar phenotype were set as highest priority
+miRNAs that gave rise to loss of OR expression phenotype were analysed by bioinformatic programs like TargetScan, PITA and miRanda.
+For a given miRNA.  Targets were predicted first by making a list of predicted targets that comes out by TargetScan UTR and ORF, and list that predicts overlapping targets between ORF and UTR was made.
+A  list of predicted targets for given miRNA was  also drawn from PITA and miRanda bioinformatics tools and common targets predicted amongst all 3 bioinformatic tools (PITA, miRanda and TargetScan) was then pooled to make a list.
+The list of predicted targets were then run through the TargetScan, (UTR and ORF) to see if those targets bring out the same miRNA with better seed pairing.
+A list of the targets with better seed pairing was made also made.
+If two bioinformatics program predicted a common target, it was also retained for further validation.
+When two miRNAs that gave same phenotype, overlapping target amongst it was given preference, followed by if the same target was predicted by two or more bioinformatic tool.
+Finally predicted targets were then run through the microcosm, just to check, if it gives a better free energy change before ordering RNAi.
+
 ### Secondary RNAi screen: 
 Virgin flies from Pebbled-GAL4,UAS-Dicer2 and the OR promoter fusions were crossed to male RNAi flies obtained from VRDC library. The crosses were carried out at 25^0 and the vials were moved to 28^0 at white pupal stage until the eclosure. The flies were incubated at 2-3 days post elcosure at 28^0 and  brains were immunostained for loss of GFP expression. The RNAi lines that gave loss were validated for reproducibility. To further validate the established phenotype, RNAi lines from DGRC were used and only the lines that gave same phenotype were considered positive hit and retained for further analysis.
 
