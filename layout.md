@@ -3,6 +3,7 @@ introduction.md
 results.md
 miRNA_screen.md
 RNAi_screen.md
+atf3_validation.md
 methods.md
 discussion.md
 supplemental.md
