@@ -1,1 +1,3 @@
-Replace this text with your caption
+## Figure 1
+
+Nullam malesuada est velit, eget dapibus enim pharetra vel. Suspendisse potenti. Sed aliquet commodo tristique. Aliquam risus mi, ullamcorper nec bibendum at, interdum id dolor. Phasellus in lectus sed ante feugiat euismod. Phasellus mauris eros, dictum ut adipiscing in, facilisis a nulla. Curabitur in vestibulum velit, non volutpat velit. Praesent sit amet lectus ut quam varius accumsan non nec lorem. Morbi non pretium velit. Pellentesque velit nisi, pretium in fermentum quis, laoreet sit amet risus. Sed in quam a tortor rhoncus sodales pretium et velit. Aliquam sapien enim, laoreet at rutrum nec, tincidunt vitae lorem. Morbi congue, sem nec fermentum fringilla, felis risus condimentum nulla, ac malesuada tortor eros in sapien. Nullam molestie neque eu augue blandit, ac scelerisque turpis pretium. Quisque eget adipiscing dui, id laoreet nisi.
