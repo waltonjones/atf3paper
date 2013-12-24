@@ -8,4 +8,4 @@ methods.md
 discussion.md
 supplemental.md
 contributions.md
-Acknowledgements.md
+acknowledgements.md
