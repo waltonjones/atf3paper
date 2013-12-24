@@ -1,6 +1,7 @@
 summary.md
 introduction.md
 results.md
+figures/Fig1/Fig11.jpg
 figures/Fig1/Fig1.jpg
 miRNA_screen.md
 RNAi_screen.md
