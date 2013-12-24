@@ -1,6 +1,7 @@
 summary.md
 introduction.md
 results.md
+miRNA_screen.md
 methods.md
 discussion.md
 supplemental.md
