@@ -1,6 +1,7 @@
 summary.md
 introduction.md
 results.md
+figures/Fig1NEW/Fig1NEW.jpg
 miRNA_screen.md
 RNAi_screen.md
 atf3_validation.md
