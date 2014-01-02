@@ -3,6 +3,7 @@ introduction.md
 results.md
 figures/Fig1/Fig1.jpg
 miRNA_screen.md
+figures/Fig4/Fig4.jpg
 RNAi_screen.md
 atf3_validation.md
 methods.md
