@@ -5,6 +5,7 @@ figures/Fig1/Fig1.jpg
 miRNA_screen.md
 figures/Fig2/Fig2.jpg
 RNAi_screen.md
+figures/Fig3/Fig3.jpg
 atf3_validation.md
 methods.md
 discussion.md
