@@ -7,6 +7,7 @@ figures/Fig2/Fig2.jpg
 RNAi_screen.md
 figures/Fig3/Fig3.jpg
 atf3_validation.md
+figures/Fig4/Fig4.jpg
 methods.md
 discussion.md
 supplemental.md
