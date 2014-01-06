@@ -1,1 +1,1 @@
-**\label{fig:Figure 1:}** Generation and validation of a small library of UAS-miRNA *Drosophila* stocks. **A.**
+\label{fig:**Figure 1:**} Generation and validation of a small library of UAS-miRNA *Drosophila* stocks. **A.**
