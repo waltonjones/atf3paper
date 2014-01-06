@@ -1,1 +1,1 @@
-Replace this text with your caption
+**Figure 1:** Generation and validation of a small library of UAS-miRNA *Drosophila* stocks. **A.**
