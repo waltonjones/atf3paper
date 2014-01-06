@@ -1,1 +1,3 @@
-Replace this text with your caption
+\label{fig:2} - Primary screen for regulators of OR expression using miRNA overexpression.
+
+**A.**
