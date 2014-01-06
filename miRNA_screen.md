@@ -1,4 +1,4 @@
-## miRNA Screen
+## Primary screen using miRNA overexpression
 
 ### Figure 2: Primary screen for regulators of OR expression:
 A. Genetic scheme for the screen
