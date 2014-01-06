@@ -57,6 +57,11 @@
 			<outline text="Coverage of fly miRNAs (cite miRBase)"/>
 			<outline text="Site-specific recombination"/>
 			<outline text="Different insertions than Lai or Basler lab papers"/>
+			<outline text="Discuss different methods of expression confirmation">
+				<outline text="Fluorescent marker proxy"/>
+				<outline text="Eye and wing phenotypes"/>
+				<outline text="Direct confirmation with Taqman qPCR kits"/>
+			</outline>
 			<outline text="Figure 1" _note="UAS-miRNA library generation">
 				<outline text="Vector schematic"/>
 				<outline text="Fluorescent marker" _note="Expression verification"/>
