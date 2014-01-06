@@ -26,3 +26,5 @@ The antibodies used were anti-nc82 (1:50, DHSB ), rabbit anti-GFP (1:1000, Molec
 ### Fly stocks:
 Pebbled-GAL4 OR promoter fusion lines were kind gift from Alenius Mattias. Atf3 related lines namely Atf3 mutant (yw,atf3(76)/FM7i,P {ActGFP}JMR3),  the Atf3 UAS line (w;UAS-atf3WT/cyo) and pBAC [atf3::EGFP]/TM6B were kind gift from Prof. Uhlirova, M.
 miRNA lines used were generated from our lab as previously described and RNAi lines were ordered from the Bloomington Drosophila Stock Center and VDRC.
+
+Atf3 RNAi was ordered from BDSC #26741 and VDRC # v105036
