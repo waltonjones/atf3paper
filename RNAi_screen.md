@@ -1,4 +1,4 @@
-## RNAi screen
+## Secondary screen using gene-specific RNAi
 
 ### Figure 3: Secondary RNAi screen for regulators of OR expression:
 A. Identification of Atf3 as a gene of interest (miRNA target lists with overlap analysis)
