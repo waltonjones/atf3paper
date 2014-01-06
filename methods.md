@@ -1,5 +1,7 @@
-## Materials and methods
+# Materials and methods
+
 ### UAS-miRNA stock generation
+
 We obtained 40 UAS-DsRed-miRNA constructs from the [*Drosophila* RNAi Screening Center](http://www.flyrnai.org) originally published by Silver et al. \cite{agen_Okamura_Perrimon_Lai_2007}. We modified these vectors by inserting a minimal attB sites into the MluI site to make them suitable for site-specific insertion into the fly genome. To produce the rest of the stocks, we modified the pKC27-derived attB-containing SST13 UAS vector, which makes use of the split-white system to reduce the time spent on off-target insertions \cite{aeda_Hediger_Karch_Basler_2007}. We inserted additional restriction sites between the KpnI and XbaI sites of the SST13 polylinker. Inspired by the design of the Silver et al. UAS-miRNA vectors \cite{agen_Okamura_Perrimon_Lai_2007}, we inserted either the DsRed or mCherry coding sequence downstream of a 5X UAS sequence and renamed these vectors pSS-DsRed and pSS-mCherry. Next, we amplified putative pri-miRNA sequences consisting of roughly 400-500 bp surrounding each mature miRNA sequence from Canton S or w1118 genomic DNA and inserted them into the 3'-UTR of the fluorescent marker in each pSS vector. We made constructs for individual miRNAs where possible, but cloned tightly clustered miRNAs en masse. We validated all of our UAS-miRNA vectors with restriction digests and sequencing. Supplemental table 1 summarizes the UAS-miRNA constructs and the primers used to make them. After cloning and verifying the UAS-miRNA constructs, we injected them into the attP-72A landing site strain (n.b., 2nd chromosome) embryos using standard techniques.
 
 ### MicroRNA over-expression screen
