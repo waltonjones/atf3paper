@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title></title>
+</head>
+<body>
+	<outline text="ATF3 Paper">
+		<outline text="Intro" _status="checked">
+			<outline text="Genetic screening" _status="checked">
+				<outline text="Power" _status="checked"/>
+				<outline text="Challenges" _status="checked"/>
+			</outline>
+			<outline text="miRNAs" _status="checked">
+				<outline text="Biological basis of target selection" _status="checked"/>
+				<outline text="Target prediction" _status="checked"/>
+			</outline>
+			<outline text="Insect olfaction" _status="checked">
+				<outline text="Antenna" _status="checked">
+					<outline text="Timing of development" _status="checked"/>
+					<outline text="Developmental origin from imaginal disc" _status="checked"/>
+				</outline>
+				<outline text="OSNs" _status="checked">
+					<outline text="Timing of development and wiring" _status="checked"/>
+				</outline>
+				<outline text="ORs" _status="checked">
+					<outline text="Small OSN subpopulations" _status="checked"/>
+					<outline text="Timing of expression" _status="checked"/>
+					<outline text="Role of ORs in determining odor response profile" _status="checked"/>
+					<outline text="Combinatorial code driving expression" _status="checked">
+						<outline text="Concession from Jafari et al that more TFs would be required" _status="checked"/>
+					</outline>
+					<outline text="Differences in the system compared to mammalian OR expression" _status="checked"/>
+				</outline>
+			</outline>
+			<outline text="Brief summary of the screen results" _status="checked">
+				<outline text="Screen design" _status="checked"/>
+				<outline text="Categories of positive miRNA hits" _status="checked"/>
+				<outline text="Screen summary" _status="checked"/>
+				<outline text="Summary of Atf3 findings" _status="checked"/>
+			</outline>
+		</outline>
+		<outline text="Results">
+			<outline text="Figure 1" _note="UAS-miRNA library generation">
+				<outline text="Vector schematic"/>
+				<outline text="Fluorescent marker" _note="Expression verification"/>
+				<outline text="Wing phenotypes" _note="Expression verification"/>
+				<outline text="Eye phenotypes" _note="Expression verification"/>
+			</outline>
+			<outline text="Figure 2" _note="An initial screen for miRNAs whose over-expression alters OR reporter expression in the antennal lobe">
+				<outline text="Generic screen flowchart"/>
+				<outline text="Control AL staining"/>
+				<outline text="Control antennal *in situ*"/>
+				<outline text="miRNAs causing loss of Or47b expression" _note="AL staining of positive hits in miRNA o/e screen"/>
+				<outline text="miRNAs causing loss of Or92a expression" _note="AL staining of positive hits in miRNA o/e screen"/>
+				<outline text="miRNAs causing loss of both Or47b and Or92a" _note="AL staining of positive hits in miRNA o/e screen"/>
+				<outline text="Mixed probe *in situs* confirming loss of Or47b for a few miRNAs"/>
+			</outline>
+			<outline text="miRNA target prediction">
+				<outline text="Explain rationale behind using Targetscan"/>
+				<outline text="No readily available expression data for OSNs"/>
+				<outline text="Target overlap analysis"/>
+				<outline text="Bring up the Eip93f target confirmation"/>
+			</outline>
+			<outline text="Figure 3" _note="A secondary RNAi screen for novel targets whose knockdown reduces Or47b expression ">
+				<outline text="Small tabular summary of prediction results"/>
+				<outline text="Small tabular summary of #s of overlapping targets by # of miRNA list"/>
+				<outline text="Tabular list of overlapping targets"/>
+				<outline text="Atf3 3&apos;-UTR schematic showing miRNA target sites"/>
+				<outline text="Atf3-IR"/>
+				<outline text="Mixed probe or just Or47b in situ"/>
+				<outline text="Brain staining"/>
+			</outline>
+			<outline text="Figure 4" _note="Atf3 are required in olfactory neurons for Or47b expression">
+				<outline text="Atf3 is expressed in Or47b neurons (Or47b-Gal4&gt;TdTomato; GFP::Atf3)"/>
+				<outline text="Overexpression of miRNA reduces atf3 expression"/>
+				<outline text="Antennal in situ for atf3 in controls and atf3 knockdown"/>
+				<outline text="Rescue of Atf3 expression in Orco-positive neurons rescues Or47b expression"/>
+				<outline text="Atf3 mutants show loss of Or47b in the AL"/>
+				<outline text="Atf3 mutants show loss of Or47b in the antenna (in situ)"/>
+			</outline>
+		</outline>
+	</outline>
+</body>
+</opml>
