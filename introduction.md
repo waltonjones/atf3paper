@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 The development of transgenic RNAi fly stock libraries (e.g., the [Vienna *Drosophila* RNAi library](http://stockcenter.vdrc.at/control/rnailibrary) \cite{Oppel_Scheiblauer_et_al__2007} and the [Transgenic RNAi Project (TRiP)](http://www.flyrnai.org/TRiP-HOME.html)) has been a tremendous boon to the *Drosophila* community because they permit tissue-specific knockdown of almost all genes in the genome. These resources make it possible to perform genome-wide screens for genes associated with almost any phenotype of interest. Unfortunately, the sheer size of these libraries—more than 22,000 stocks in the case of the Vienna library—means that performing such screens remains labor-intensive and tedious. In this paper, we describe a two-tiered screening protocol comprising an initial pooling screen using miRNA over-expression that generates a list of candidate genes involved in a phenotype of interest and a secondary screen using gene-specific RNAi that narrows this list of candidates to a single responsible target gene.
 
