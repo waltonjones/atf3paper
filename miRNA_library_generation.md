@@ -1,14 +1,25 @@
-### Figure 1: Two-tiered miRNA screening approach
-A.Screen flowchart
-B. Construction of miRNA library
-C. Confirmation of miRNA expression
+## UAS-miRNA library generation
 
-Two-tiered approach makes use of miRNAs as the primary screen tool. MicroRNA-target pairing is determined via complementary base pairing through a short seed sequence. Using bioinformatic target prediction of the seed sequence of each positive hit in our primary screen provides a list of candidates for a secondary RNAi-based screen. The predicted miRNA targets were set as priority based on expression
-pattern, and if multiple miRNAs give the same phenotype, overlapping target predictions are given higher priority in the follow-up screen. The two-tiered system allows to rapidly close in on individual target genes involved in a phenomenon of interest. Schematic representation  of two-tiered miRNA based screen (Fig. \ref{fig:1}A).
+According to the most recent release of[miRBase](http://mirbase.org)
+\cite{http://dx.doi.org/10.1093/nar/gkt1181}, roughly 65% of the 238
+annotated miRNAs in the *Drosophila* genome are "high confidence"
+annotations. When we began this project, although there were no
+publicly available fly stocks for tissue-specific miRNA
+overexpression, a group of UAS-DsRed-miRNA DNA constructs
+representing many of these important miRNAs had been published by
+Silver et al. \cite{agen_Okamura_Perrimon_Lai_2007}. In these
+constructs, 400-500 nucleotide pri-miRNA regions were inserted into
+the 3'-UTR of the fluorescent protein DsRed, itself part of
+a P-element-based UAS transgenesis vector. To facilitate the genetics
+of our proposed screening protocol, we decided to generate a library
+of site-specific insertions of these constructs. In addition to
+adding attB recombinase recognition sites to 40 existing of these
+UAS-DsRed-miRNA constructs, we amplified and inserted many similar
+400-500 nucleotide pri-miRNA sequences into the 3'-UTR of a similar
+UAS vector containing either DsRed or mCherry and an attB site.
+Clustered miRNAs were generally cloned en masse, but some were cloned
+individually (Fig. \ref{fig:1}A).  In total, our UAS-miRNA library
+includes 137 stocks covering 159 *Drosophila* miRNAs (see
+Supplemental Table 1 for details). 
 
-According to version 17 of miRBase, there are 238 annotated miRNAs in the fly genome (Refer). UAS-miRNA constructs that were previously deposited (refer) as clones with the Drosophila Genomics Resource Center were originally constructed by inserting 400-500 base pairs of DNA surrounding the mature miRNA sequence into the 3’-UTR of DsRed and cloning it into the fly transformation vector pUAST. Essentially, this amounts to the cloning of the equivalent of the pri-miRNA and adding it to the transcript of a fluorescent marker protein.  40 of these UAS-miRNA constructs were modified by adding an attB site into each vector to permit site-specific, unidirectional, and highly efficient recombination of the vector into an attP landing site via the action of the Phi-C integrase (refer). This technique helps to reduce the genomic position effects that often plague over-expression experiments with GAL4 and UAS-lines that are randomly inserted into the genome by P-element mediated transgenesis.
-
-For the rest of the fly miRNAs, modified version of another attB-containing vector called SST13 was used. To prepare this vector for use, we added several restriction sites, inserted DsRed downstream of a 5X UAS sequence, and renamed it pSS-DsRed. For a better fluorescence signal, in some UAS-miRNAs  constructs DsRed was replaced with mCherry. (Fig 1B) For the construction of rest of the library PCR amplification of pri-miRNAs consisting of 400-500 base pairs surrounding each mature miRNA sequence was performed, TA-cloned into the pGEM-T-Easy vector, and subcloned them into one of the pSS constructs. The clone was confirmed by restriction digestion and sequencing. The contructs were microinjected to produce transgenic flies. To confirm miRNA over-expression, the UAS-miRNA fly lines were crossed to GMR-GAL4, which drives expression in the eye. DsRed or mCherry fluorescence was taken as a proxy-indicator of miRNA expression. MicroRNA over-expression was also confirmed by qPCR.(data not shown) (fig 1c)
-
-### UAS-miRNA stock verification
-We combined our UAS-miRNA stocks with the wing driver nubbin-Gal4 and the eye driver GMR-Gal4 and were able to observe red fluorescence as a proxy of miRNA expression. Developmental defects in both the eyes for GMR-Gal4 and the wing for nubbin-Gal4 (Fig. ). Several of the wing phenotypes are very similar to the wing defects previously published for overexpression of various miRNAs using other wing driver lines{Bejarano:2012gi, Schertel:2012eg}. We also directly verified the overexpression of the mature miRNA in a few select lines using qPCR with commercial TaqMan probes (data not shown).
+### Verification of miRNA expression
