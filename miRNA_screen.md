@@ -3,7 +3,7 @@
 ### Figure 2: Primary screen for regulators of OR expression:
 A. Genetic scheme for the screen
 B. Brain staining for various miRNA O/E showing loss of Or47b, loss of Or92a, and loss of both
-C. Mixed probe in situs confirming the Or47b loss with a couple of miR 33 miR-2a-2/2c miR 986 
+C. Mixed probe in situs confirming the Or47b loss with a couple of miRs
 
 To determine if miRNAs play a role in OR expression,  UAS-miRNA library of Drosophila stocks was used for tissue-specific over-expression of specific miRNAs.  The standard GAL4-UAS system was used. (refer) To adapt this system in over-expression experiments and to find a way to visualize a limited but specific population of ORNs, the fusions of OR promoters to GFP were used.  The two OR promoter fusion of Or47b and Or92a neurons were selected because the glomeruli they innervate are large and easy to identify. Or92a neurons project to the VA2 glomerulus whereas Or47b neurons project to the VA1lm glomerulus at the ventrolateral edge of the antennal lobe. (refer) The pebbled-GAL4 driver line, that is expressed in peripheral sensory neurons throughout pupation, with the OR promoter fusion to Or47b and Or92a (refer) was used for the tissue-specific over-expression of miRNAs. Fly brain was immunostained for visualizing any loss of GFP expression.
 
