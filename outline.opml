@@ -54,8 +54,8 @@
 	</outline>
 	<outline text="Results">
 		<outline text="UAS-miRNA library generation">
-			<outline text="Coverage of fly miRNAs (cite miRBase)"/>
-			<outline text="Site-specific recombination"/>
+			<outline text="Coverage of fly miRNAs (cite miRBase)" _status="checked"/>
+			<outline text="Site-specific recombination" _status="checked"/>
 			<outline text="Different insertions than Lai or Basler lab papers"/>
 			<outline text="Discuss different methods of expression confirmation">
 				<outline text="Fluorescent marker proxy"/>
