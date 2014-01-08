@@ -56,17 +56,16 @@
 		<outline text="UAS-miRNA library generation">
 			<outline text="Coverage of fly miRNAs (cite miRBase)" _status="checked"/>
 			<outline text="Site-specific recombination" _status="checked"/>
-			<outline text="Different insertions than Lai or Basler lab papers"/>
-			<outline text="Discuss different methods of expression confirmation">
-				<outline text="Fluorescent marker proxy"/>
-				<outline text="Eye and wing phenotypes"/>
-				<outline text="Direct confirmation with Taqman qPCR kits"/>
+			<outline text="Discuss different methods of expression confirmation" _status="checked">
+				<outline text="Fluorescent marker proxy" _status="checked"/>
+				<outline text="Eye and wing phenotypes" _status="checked"/>
+				<outline text="Direct confirmation with Taqman qPCR kits" _status="checked"/>
 			</outline>
-			<outline text="Figure 1" _note="UAS-miRNA library generation">
-				<outline text="Vector schematic"/>
-				<outline text="Fluorescent marker" _note="Expression verification"/>
-				<outline text="Wing phenotypes" _note="Expression verification"/>
-				<outline text="Eye phenotypes" _note="Expression verification"/>
+			<outline text="Figure 1" _note="UAS-miRNA library generation" _status="checked">
+				<outline text="Vector schematic" _status="checked"/>
+				<outline text="Fluorescent marker" _note="Expression verification" _status="checked"/>
+				<outline text="Wing phenotypes" _note="Expression verification" _status="checked"/>
+				<outline text="Eye phenotypes" _note="Expression verification" _status="checked"/>
 			</outline>
 		</outline>
 		<outline text="Primary miRNA overexpression screen">
@@ -153,6 +152,10 @@
 	</outline>
 	<outline text="Discussion">
 		<outline text="Summary of the results"/>
+		<outline text="Novelty of our technique">
+			<outline text="Previously published UAS-miRNA studies focused on miRNA biology rather than using the miRNAs as a screening tool"/>
+			<outline text="Different insertions than Lai or Basler lab papers"/>
+		</outline>
 		<outline text="Advantages to this screening method">
 			<outline text="Efficiency"/>
 		</outline>
