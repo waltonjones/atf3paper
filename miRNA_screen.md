@@ -1,9 +1,6 @@
-## Primary screen using miRNA overexpression
+## Primary screen for regulators of OR expression using miRNAs
 
-### Figure 2: Primary screen for regulators of OR expression:
-A. Genetic scheme for the screen
-B. Brain staining for various miRNA O/E showing loss of Or47b, loss of Or92a, and loss of both
-C. Mixed probe in situs confirming the Or47b loss with a couple of miRs
+We chose Pbl-Gal4 to drive expression of UAS-miRNAs in adult olfactory neurons because it is expressed strongly in peripheral sensory neurons beginning 12-18 hours after pupation \cite{http://dx.doi.org/10.1016/j.neuron.2006.12.022}. By combining Pbl-Gal4 with fusions of two odorant receptor promoters (i.e., Or92a and Or47b) to the coding sequence for a membrane-tethered GFP and crossing in the UAS-miRNAs, we were able to visualize the effects of miRNA expression on OR expression.
 
 To determine if miRNAs play a role in OR expression,  UAS-miRNA library of Drosophila stocks was used for tissue-specific over-expression of specific miRNAs.  The standard GAL4-UAS system was used. (refer) To adapt this system in over-expression experiments and to find a way to visualize a limited but specific population of ORNs, the fusions of OR promoters to GFP were used.  The two OR promoter fusion of Or47b and Or92a neurons were selected because the glomeruli they innervate are large and easy to identify. Or92a neurons project to the VA2 glomerulus whereas Or47b neurons project to the VA1lm glomerulus at the ventrolateral edge of the antennal lobe. (refer) The pebbled-GAL4 driver line, that is expressed in peripheral sensory neurons throughout pupation, with the OR promoter fusion to Or47b and Or92a (refer) was used for the tissue-specific over-expression of miRNAs. Fly brain was immunostained for visualizing any loss of GFP expression.
 
