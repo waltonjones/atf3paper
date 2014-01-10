@@ -1,6 +1,6 @@
 ## Primary screen for regulators of OR expression using miRNAs
 
-We chose Pbl-Gal4 to drive expression of UAS-miRNAs in adult olfactory neurons because it is expressed strongly in peripheral sensory neurons beginning 12-18 hours after pupation \cite{http://dx.doi.org/10.1016/j.neuron.2006.12.022}. By combining Pbl-Gal4 with fusions of two odorant receptor promoters (i.e., Or92a and Or47b) to the coding sequence for a membrane-tethered GFP and crossing in the UAS-miRNAs, we were able to visualize the effects of miRNA expression on OR expression.
+We chose Pbl-Gal4 to drive expression of UAS-miRNAs in adult olfactory neurons because it is expressed strongly in peripheral sensory neurons beginning 12-18 hours after pupation \cite{dnik_Dickson_Luo_Komiyama_2007}. By combining Pbl-Gal4 with fusions of two odorant receptor promoters (i.e., Or92a and Or47b) to the coding sequence for a membrane-tethered GFP and crossing in the UAS-miRNAs, we were able to visualize the effects of miRNA expression on OR expression.
 
 
 
