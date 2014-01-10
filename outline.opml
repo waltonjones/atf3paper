@@ -69,10 +69,11 @@
 			</outline>
 		</outline>
 		<outline text="Primary miRNA overexpression screen">
+			<outline text="Concept of two-tiered miRNA-overexpression screening"/>
 			<outline text="Genotype used for screening">
-				<outline text="Why Pbl?">
-					<outline text="Peripheral sensory neurons (covers all the olfactory neurons)"/>
-					<outline text="Strong promoter"/>
+				<outline text="Why Pbl?" _status="checked">
+					<outline text="Peripheral sensory neurons (covers all the olfactory neurons)" _status="checked"/>
+					<outline text="Strong promoter" _status="checked"/>
 				</outline>
 				<outline text="Why Or47b and Or92a?">
 					<outline text="Large glomeruli"/>
