@@ -53,7 +53,7 @@
 		</outline>
 	</outline>
 	<outline text="Results">
-		<outline text="UAS-miRNA library generation">
+		<outline text="UAS-miRNA library generation" _status="checked">
 			<outline text="Coverage of fly miRNAs (cite miRBase)" _status="checked"/>
 			<outline text="Site-specific recombination" _status="checked"/>
 			<outline text="Discuss different methods of expression confirmation" _status="checked">
@@ -69,55 +69,55 @@
 			</outline>
 		</outline>
 		<outline text="Primary miRNA overexpression screen">
-			<outline text="Concept of two-tiered miRNA-overexpression screening"/>
+			<outline text="Concept of two-tiered miRNA-overexpression screening" _status="checked"/>
 			<outline text="Genotype used for screening">
 				<outline text="Why Pbl?" _status="checked">
 					<outline text="Peripheral sensory neurons (covers all the olfactory neurons)" _status="checked"/>
 					<outline text="Strong promoter" _status="checked"/>
 				</outline>
-				<outline text="Why Or47b and Or92a?">
-					<outline text="Large glomeruli"/>
-					<outline text="Glomeruli and neurons are easily identified and separated from one another."/>
-					<outline text="Anterior AL"/>
-					<outline text="Existing reporters"/>
+				<outline text="Why Or47b and Or92a?" _status="checked">
+					<outline text="Large glomeruli" _status="checked"/>
+					<outline text="Glomeruli and neurons are easily identified and separated from one another." _status="checked"/>
+					<outline text="Anterior AL" _status="checked"/>
+					<outline text="Existing reporters" _status="checked"/>
 				</outline>
 			</outline>
-			<outline text="Three classes of OR expression results">
-				<outline text="Loss of Or47b"/>
-				<outline text="Loss of Or92a"/>
-				<outline text="Loss of both"/>
+			<outline text="Four classes of OR expression results" _status="checked">
+				<outline text="Loss of Or47b" _status="checked"/>
+				<outline text="Loss of Or92a" _status="checked"/>
+				<outline text="Loss of both" _status="checked"/>
+				<outline text="Lethal miRNAs" _status="checked"/>
 			</outline>
-			<outline text="Lethal miRNAs"/>
-			<outline text="Why focus on Or47b?">
-				<outline text="Or47b phenotypes were the clearest" _note="The Or92a loss seemed to show some loss of Or47b too."/>
-				<outline text="There is only 1 TF previously associated with Or47b expression (make sure and cite Jafari)" _note="Or92a has many TFs associated with it."/>
+			<outline text="Why focus on Or47b?" _status="checked">
+				<outline text="Or47b phenotypes were the clearest" _note="The Or92a loss seemed to show some loss of Or47b too." _status="checked"/>
+				<outline text="There is only 1 TF previously associated with Or47b expression (make sure and cite Jafari)" _note="Or92a has many TFs associated with it." _status="checked"/>
 			</outline>
-			<outline text="Verification of Or47b loss via in situ"/>
-			<outline text="Figure 2" _note="An initial screen for miRNAs whose over-expression alters OR reporter expression in the antennal lobe">
-				<outline text="Generic screen flowchart"/>
-				<outline text="Control AL staining"/>
-				<outline text="Control antennal *in situ*"/>
-				<outline text="miRNAs causing loss of Or47b expression" _note="AL staining of positive hits in miRNA o/e screen"/>
-				<outline text="miRNAs causing loss of Or92a expression" _note="AL staining of positive hits in miRNA o/e screen"/>
-				<outline text="miRNAs causing loss of both Or47b and Or92a" _note="AL staining of positive hits in miRNA o/e screen"/>
-				<outline text="Mixed probe *in situs* confirming loss of Or47b for a few miRNAs"/>
+			<outline text="Verification of Or47b loss via in situ" _status="checked"/>
+			<outline text="Figure 2" _note="An initial screen for miRNAs whose over-expression alters OR reporter expression in the antennal lobe" _status="checked">
+				<outline text="Generic screen flowchart" _status="checked"/>
+				<outline text="Control AL staining" _status="checked"/>
+				<outline text="Control antennal *in situ*" _status="checked"/>
+				<outline text="miRNAs causing loss of Or47b expression" _note="AL staining of positive hits in miRNA o/e screen" _status="checked"/>
+				<outline text="miRNAs causing loss of Or92a expression" _note="AL staining of positive hits in miRNA o/e screen" _status="checked"/>
+				<outline text="miRNAs causing loss of both Or47b and Or92a" _note="AL staining of positive hits in miRNA o/e screen" _status="checked"/>
+				<outline text="Mixed probe *in situs* confirming loss of Or47b for a few miRNAs" _status="checked"/>
 			</outline>
 		</outline>
 		<outline text="Secondary RNAi screen">
-			<outline text="miRNA target prediction">
-				<outline text="Multiple target prediction algorithms is SOP (two citations?)"/>
-				<outline text="Explain rationale behind focusing on Targetscan">
-					<outline text="TargetScan is the most recently updated and allowed us to predict newer miRNAs (miR-2491) and look for seed matches in both the UTR and ORF"/>
-					<outline text="Miranda gave too many predictions."/>
+			<outline text="miRNA target prediction" _status="checked">
+				<outline text="Multiple target prediction algorithms is SOP (two citations?)" _status="checked"/>
+				<outline text="Explain rationale behind focusing on Targetscan" _status="checked">
+					<outline text="TargetScan is the most recently updated and allowed us to predict newer miRNAs (miR-2491) and look for seed matches in both the UTR and ORF" _status="checked"/>
+					<outline text="Miranda gave too many predictions." _status="checked"/>
 				</outline>
-				<outline text="Point out the lack of expression data for OSNs" _note="In other screens, good expression data would allow even better pruning of the putative target lists."/>
-				<outline text="Target overlap analysis"/>
-				<outline text="Bring up the Eip93f target confirmation"/>
+				<outline text="Point out the lack of expression data for OSNs" _note="In other screens, good expression data would allow even better pruning of the putative target lists." _status="checked"/>
+				<outline text="Target overlap analysis" _status="checked"/>
+				<outline text="Bring up the Eip93f target confirmation" _status="checked"/>
 			</outline>
 			<outline text="Figure 3" _note="A secondary RNAi screen for novel targets whose knockdown reduces Or47b expression ">
-				<outline text="Small tabular summary of prediction results"/>
-				<outline text="Small tabular summary of #s of overlapping targets by # of miRNA list"/>
-				<outline text="Tabular list of overlapping targets"/>
+				<outline text="Small tabular summary of prediction results" _status="checked"/>
+				<outline text="Small tabular summary of #s of overlapping targets by # of miRNA list" _status="checked"/>
+				<outline text="Tabular list of overlapping targets" _status="checked"/>
 				<outline text="Atf3 3&apos;-UTR schematic showing miRNA target sites"/>
 				<outline text="AL staining of Pbl&gt;atf3-IR"/>
 				<outline text="Control *in situ* of Pbl-Gal4 with probes for Or47b and Or92a"/>
