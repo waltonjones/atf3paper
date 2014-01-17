@@ -114,32 +114,31 @@
 				<outline text="Target overlap analysis" _status="checked"/>
 				<outline text="Bring up the Eip93f target confirmation" _status="checked"/>
 			</outline>
-			<outline text="Figure 3" _note="A secondary RNAi screen for novel targets whose knockdown reduces Or47b expression ">
+			<outline text="Figure 3" _note="A secondary RNAi screen for novel targets whose knockdown reduces Or47b expression " _status="checked">
 				<outline text="Small tabular summary of prediction results" _status="checked"/>
 				<outline text="Small tabular summary of #s of overlapping targets by # of miRNA list" _status="checked"/>
 				<outline text="Tabular list of overlapping targets" _status="checked"/>
-				<outline text="Atf3 3&apos;-UTR schematic showing miRNA target sites"/>
-				<outline text="AL staining of Pbl&gt;atf3-IR"/>
-				<outline text="Control *in situ* of Pbl-Gal4 with probes for Or47b and Or92a"/>
-				<outline text="*In situ* of Pbl&gt;atf3-IR with probes for Or47b and Or92a"/>
+				<outline text="Atf3 3&apos;-UTR schematic showing miRNA target sites" _status="checked"/>
+				<outline text="AL staining of Pbl&gt;atf3-IR" _status="checked"/>
+				<outline text="*In situ* of Pbl&gt;atf3-IR with probes for Or47b and Or92a" _status="checked"/>
+				<outline text="Addition of Atf3::eGFP without the Atf3 3&apos;UTR rescues the loss of Or47b caused by miRNA overexpression" _status="checked"/>
 			</outline>
 		</outline>
 		<outline text="Validation of Atf3&apos;s role in Or47b expression">
-			<outline text="Cite &quot;rules&quot; of combinatorial code in OR expression">
-				<outline text="Broad expression of transcription factors in the antenna"/>
-				<outline text="Some TFs are activators, some repressors"/>
+			<outline text="Cite &quot;rules&quot; of combinatorial code in OR expression" _status="checked">
+				<outline text="Broad expression of transcription factors in the antenna" _status="checked"/>
+				<outline text="Some TFs are activators, some repressors" _status="checked"/>
 			</outline>
 			<outline text="Figure 4" _note="Atf3 are required in olfactory neurons for Or47b expression">
-				<outline text="w1118 control *in situ* against Atf3"/>
-				<outline text="Co-localization of Or47b&gt;TdTomato and GFP::Atf3"/>
-				<outline text="Overexpression of Atf3 does not alter Or47b expression" _note="May alter other OR expression patterns. We only looked at Or47b."/>
-				<outline text="Rescue of Atf3 expression in Orco-positive neurons rescues the loss of Or47b expression caused by knockdown of Atf3" _note="Weak rescue because Atf3-IR can also act on the UAS-Atf3"/>
-				<outline text="Knockdown of Atf3 does not alter neuronal morphology"/>
-				<outline text="Addition of Atf3::eGFP without the Atf3 3&apos;UTR rescues the loss of Or47b caused by miRNA overexpression"/>
-				<outline text="Or47b promoter schematic showing putative Atf3 binding site">
-					<outline text="No clear site for the only known fly Atf3 consensus sequence"/>
-					<outline text="Or47b promoter bashing indicates that a ~500bp promoter is sufficient (cite Carlson paper)"/>
-					<outline text="This suggests the role of Atf3 may be indirect."/>
+				<outline text="w1118 control *in situ* against Atf3" _status="checked"/>
+				<outline text="Co-localization of Or47b&gt;TdTomato and GFP::Atf3" _status="checked"/>
+				<outline text="Overexpression of Atf3 does not alter Or47b expression" _note="May alter other OR expression patterns. We only looked at Or47b." _status="checked"/>
+				<outline text="Rescue of Atf3 expression in Orco-positive neurons rescues the loss of Or47b expression caused by knockdown of Atf3" _note="Weak rescue because Atf3-IR can also act on the UAS-Atf3" _status="checked"/>
+				<outline text="Knockdown of Atf3 does not alter neuronal morphology" _status="checked"/>
+				<outline text="Or47b promoter schematic showing putative Atf3 binding site" _status="checked">
+					<outline text="No clear site for the only known fly Atf3 consensus sequence" _status="checked"/>
+					<outline text="Or47b promoter bashing indicates that a ~500bp promoter is sufficient (cite Carlson paper)" _status="checked"/>
+					<outline text="This suggests the role of Atf3 may be indirect." _status="checked"/>
 				</outline>
 			</outline>
 		</outline>
