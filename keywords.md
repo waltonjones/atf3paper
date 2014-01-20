@@ -1,3 +1,3 @@
 **Keywords**
 
-Drosophila, genetic screening, miRNA, odorant receptor, olfaction
+*Drosophila*, genetic screening, miRNA, olfaction
