@@ -14,4 +14,5 @@ methods.md
 discussion.md
 supplement.md
 contributions.md
+author_contributions.md
 acknowledgements.md
