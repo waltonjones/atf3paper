@@ -13,6 +13,5 @@ figures/Fig4/Fig4.jpg
 methods.md
 discussion.md
 supplement.md
-/ST1.xls
-contributions.md
+/contributions.md
 acknowledgements.md
