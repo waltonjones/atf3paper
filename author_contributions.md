@@ -1,1 +1,0 @@
-S.B., M.S., SY.B., and Y.K. generated and tested the UAS-miRNA fly stocks. S.B. carried out the rest of the experiments. S.B. and W.D.J. analyzed the data and wrote the paper.
