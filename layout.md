@@ -12,5 +12,5 @@ atf3_validation.md
 figures/Fig4/Fig4.jpg
 methods.md
 discussion.md
-/contributions.md
+contributions.md
 acknowledgements.md
