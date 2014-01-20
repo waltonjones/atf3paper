@@ -1,1 +1,1 @@
-# Supplemental methods and figures
+# Supplemental table
