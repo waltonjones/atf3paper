@@ -143,12 +143,12 @@
 			</outline>
 		</outline>
 	</outline>
-	<outline text="Methods">
-		<outline text="UAS-miRNA stock generation"/>
-		<outline text="Fly husbandry"/>
-		<outline text="miRNA overexpression screen method"/>
-		<outline text="miRNA target prediction"/>
-		<outline text="RNAi screening method"/>
+	<outline text="Methods" _status="checked">
+		<outline text="UAS-miRNA stock generation" _status="checked"/>
+		<outline text="Fly husbandry" _status="checked"/>
+		<outline text="miRNA overexpression screen method" _status="checked"/>
+		<outline text="miRNA target prediction" _status="checked"/>
+		<outline text="RNAi screening method" _status="checked"/>
 	</outline>
 	<outline text="Discussion">
 		<outline text="Summary of the results"/>
