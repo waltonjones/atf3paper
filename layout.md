@@ -13,6 +13,7 @@ figures/Fig4/Fig4.jpg
 methods.md
 discussion.md
 supplement.md
+/ST1.xls
 contributions.md
 author_contributions.md
 acknowledgements.md
