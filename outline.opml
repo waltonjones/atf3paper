@@ -150,30 +150,30 @@
 		<outline text="miRNA target prediction" _status="checked"/>
 		<outline text="RNAi screening method" _status="checked"/>
 	</outline>
-	<outline text="Discussion">
-		<outline text="Summary of the results"/>
-		<outline text="Novelty of our technique">
-			<outline text="Previously published UAS-miRNA studies focused on miRNA biology rather than using the miRNAs as a screening tool"/>
-			<outline text="Different insertions than Lai or Basler lab papers"/>
+	<outline text="Discussion" _status="checked">
+		<outline text="Summary of the results" _status="checked"/>
+		<outline text="Novelty of our technique" _status="checked">
+			<outline text="Previously published UAS-miRNA studies focused on miRNA biology rather than using the miRNAs as a screening tool" _status="checked"/>
+			<outline text="Different insertions than Lai or Basler lab papers" _status="checked"/>
 		</outline>
-		<outline text="Advantages to this screening method">
-			<outline text="Efficiency"/>
+		<outline text="Advantages to this screening method" _status="checked">
+			<outline text="Efficiency" _status="checked"/>
 		</outline>
-		<outline text="Disadvantages to this screening method">
-			<outline text="Bias">
-				<outline text="Bias introduced by only using endogenous miRNAs"/>
-				<outline text="Bias toward genes with long ORFs"/>
-				<outline text="Bias toward genes with long 3&apos;-UTRs"/>
+		<outline text="Disadvantages to this screening method" _status="checked">
+			<outline text="Bias" _status="checked">
+				<outline text="Bias introduced by only using endogenous miRNAs" _status="checked"/>
+				<outline text="Bias toward genes with long ORFs" _status="checked"/>
+				<outline text="Bias toward genes with long 3&apos;-UTRs" _status="checked"/>
 			</outline>
-			<outline text="Synthetic phenotypes caused by knockdown of more than one gene may not show up on the secondary screen"/>
+			<outline text="Synthetic phenotypes caused by knockdown of more than one gene may not show up on the secondary screen" _status="checked"/>
 		</outline>
-		<outline text="Suggested situations where miRNA-based screening should be applied">
-			<outline text="Complicated phenotypes">
-				<outline text="Tedious dissections"/>
-				<outline text="Longer behavioral assays like feeding or aging"/>
+		<outline text="Suggested situations where miRNA-based screening should be applied" _status="checked">
+			<outline text="Complicated phenotypes" _status="checked">
+				<outline text="Tedious dissections" _status="checked"/>
+				<outline text="Longer behavioral assays like feeding or aging" _status="checked"/>
 			</outline>
 		</outline>
-		<outline text="Potential for generating synthetic miRNAs that could reduce the bias caused by using only endogenous miRNAs"/>
+		<outline text="Potential for generating synthetic miRNAs that could reduce the bias caused by using only endogenous miRNAs" _status="checked"/>
 	</outline>
 </body>
 </opml>
