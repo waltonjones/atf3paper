@@ -4,11 +4,11 @@ introduction.md
 results.md
 miRNA_library_generation.md
 miRNA_screen.md
-figures/Fig2/Fig1.jpg
+figures/Fig1/Fig1.jpg
 RNAi_screen.md
-figures/Fig3/Fig2.jpg
+figures/Fig2/Fig2.jpg
 atf3_validation.md
-figures/Fig4/Fig3.jpg
+figures/Fig3/Fig3.jpg
 discussion.md
 methods.md
 contributions.md
