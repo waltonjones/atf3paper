@@ -13,4 +13,3 @@ discussion.md
 methods.md
 contributions.md
 acknowledgements.md
-figures/FigS1/FigS1.jpg
