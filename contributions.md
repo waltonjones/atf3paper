@@ -1,2 +1,2 @@
 # Author contributions
-W.D.J. developed the idea for miRNA-based screening. S.B., M.S., SY.B., and Y.K. generated and tested the UAS-miRNA fly stocks. S.B. carried out the screen and performed the rest of the experiments. S.B. and W.D.J. analyzed the data and wrote the paper.
+W.D.J. developed the idea for miRNA-based screening. S.B. carried out the screen and performed the rest of the experiments. S.B. and W.D.J. analyzed the data and wrote the paper.
