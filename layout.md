@@ -2,7 +2,6 @@ keywords.md
 summary.md
 introduction.md
 results.md
-miRNA_library_generation.md
 miRNA_screen.md
 figures/Fig1/Fig1.jpg
 RNAi_screen.md
