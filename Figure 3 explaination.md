@@ -1,1 +1,5 @@
 **Figure 3 – Atf3 is required for the expression of Or47b.** A. Orco-GAL4 driven knockdown of Atf3 does not affect the morphology of the Or47b neurons, nor does it a↵ect Orco expression or dendritic localization. B. An Atf3::eGFP protein fusion under the control of the Atf3 promoter is co-expressed with Or47b-GAL4 driving UAS-TdTomato in Or47b neurons. C. Over-expression of Atf3 in most adult OSNs using Orco-GAL4 does not expand the expression of Or47b. D. When compared to the UAS-atf3-IR control (left), Orco-GAL4 driven knockdown of Atf3 eliminates Or47b expression (center), but this can be partially rescued by UAS-Atf3 (right).
+
+** Supplemental Figure** : Atf3 knockdown does not cause cell death.
+A. Orco-GAL4 driven UAS-reaper, hid shows apoptois and neuronal cell death, when stained with anti-caspase (left) and anti-22c10 antibody (center).
+B. Atf3 knockdown flies does not show apoptosis (left) or neuronal cell death (centre) as when compared to the control A.
