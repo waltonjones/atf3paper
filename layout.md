@@ -8,7 +8,11 @@ secondary_screen.tex
 figures/Fig2/Fig2.jpg
 atf3_validation.tex
 figures/Fig3/Fig3.jpg
-discussion.md
-methods.md
-contributions.md
-acknowledgements.md
+discussion.tex
+methods.tex
+drosophila_stocks.tex
+immunostaining.tex
+in_situ_hybridization.tex
+acknowledgements.tex
+contributions.tex
+additional.tex
