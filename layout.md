@@ -1,6 +1,6 @@
 keywords.md
-abstract.md
-introduction.md
+abstract.tex
+intro.tex
 results.md
 miRNA_screen.md
 figures/Fig1/Fig1.jpg
