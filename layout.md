@@ -1,13 +1,13 @@
 abstract.tex
 intro.tex
-results_miRNA_screening.tex
-results_primary_screen.tex
+results.tex
+miRNA_screening.tex
+primary_screen.tex
 figures/Fig1/Fig1.jpg
-RNAi_screen.md
+secondary_screen.tex
 figures/Fig2/Fig2.jpg
-atf3_validation.md
-Figure 3 explaination.md
-Supplemental Fig..md
+atf3_validation.tex
+figures/Fig3/Fig3.jpg
 discussion.md
 methods.md
 contributions.md
