@@ -1,8 +1,7 @@
-keywords.md
 abstract.tex
 intro.tex
-results.md
-miRNA_screen.md
+results_miRNA_screening.tex
+results_primary_screen.tex
 figures/Fig1/Fig1.jpg
 RNAi_screen.md
 figures/Fig2/Fig2.jpg
