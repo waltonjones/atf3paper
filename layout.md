@@ -1,6 +1,5 @@
 abstract.tex
 intro.tex
-results.tex
 miRNA_screening.tex
 primary_screen.tex
 figures/Fig1/Fig1.jpg
@@ -9,7 +8,6 @@ figures/Fig2/Fig2.jpg
 atf3_validation.tex
 figures/Fig3/Fig3.jpg
 discussion.tex
-methods.tex
 drosophila_stocks.tex
 immunostaining.tex
 in_situ_hybridization.tex
