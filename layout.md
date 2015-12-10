@@ -11,6 +11,7 @@ discussion.tex
 drosophila_stocks.tex
 immunostaining.tex
 in_situ_hybridization.tex
+qpcr.tex
 acknowledgements.tex
 contributions.tex
 additional.tex
